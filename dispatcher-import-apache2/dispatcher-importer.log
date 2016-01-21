@@ -1,0 +1,10 @@
+INFO  2016-01-06 12:00:51,003 [main][Main.java:32] : The dispatcher-importer started working at: Wed Jan 06 12:00:51 CET 2016
+INFO  2016-01-06 12:00:51,003 [main][Client.java:37] : Trying to connect host...
+INFO  2016-01-06 12:00:51,003 [main][Client.java:28] : logclient-dev.properties
+INFO  2016-01-06 12:00:51,021 [main][Client.java:43] : Successfull connect!
+INFO  2016-01-06 12:00:51,022 [main][LogfileProcessor.java:79] : Start reading Apache error messages from file:d:\Projects\DWT\ru.error.log
+INFO  2016-01-06 12:00:52,088 [main][LogfileProcessor.java:91] : Apache error messages sent.
+INFO  2016-01-06 12:00:52,098 [main][LogfileProcessor.java:98] : Connection closed.
+INFO  2016-01-06 12:00:52,098 [main][Client.java:37] : Trying to connect host...
+INFO  2016-01-06 12:00:52,098 [main][Client.java:28] : logclient-dev.properties
+INFO  2016-01-06 12:00:52,099 [main][Client.java:43] : Successfull connect!

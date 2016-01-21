@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: apache2logserver
+Implementation-Version: 1.0.0
+Built-By: Nyiri Tamￃﾡs
+Implementation-Vendor-Id: com.carussel.dispatcher.apache2logserver
+Build-Jdk: 1.8.0_65
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
